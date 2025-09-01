@@ -1,0 +1,77 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "type_01",
+      "value": "Breath"
+    },
+    {
+      "name": "type_02",
+      "value": "Sleep"
+    },
+    {
+      "name": "type_03",
+      "value": "Meditation"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "breath_msg_01",
+      "value": "Breathe through your nose"
+    },
+    {
+      "name": "breath_msg_02",
+      "value": "Hold your breath"
+    },
+    {
+      "name": "breath_msg_03",
+      "value": "Exhale Through Mouth"
+    },
+    {
+      "name": "med_msg_01",
+      "value": "Classic"
+    },
+    {
+      "name": "med_msg_02",
+      "value": "Inner Peace"
+    },
+    {
+      "name": "med_msg_03",
+      "value": "White Noise"
+    },
+    {
+      "name": "waiting_msg",
+      "value": "Waiting..."
+    },
+    {
+      "name": "focus_msg",
+      "value": "Focus..."
+    },
+
+    {
+      "name": "sleep_msg_01",
+      "value": "Classic"
+    },
+    {
+      "name": "sleep_msg_02",
+      "value": "Inner Peace"
+    },
+    {
+      "name": "sleep_msg_03",
+      "value": "White Noise"
+    },
+    {
+      "name": "listen_relax",
+      "value": "Listen closely and relax"
+    }
+  ]
+}

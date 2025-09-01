@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/SleepPage",
+    "pages/SleepPlayPage",
+    "pages/BreathPage",
+    "pages/MeditationPage",
+    "pages/MeditationPlayPage"
+  ]
+}
